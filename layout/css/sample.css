@@ -1,0 +1,35 @@
+html,
+body {
+    background-color: blue;
+    color: white;
+    height: 100%;
+    margin: 0;
+}
+
+#header {
+    background-color: purple;
+    margin-top: 5px;
+    height: 100px;
+}
+
+#content {
+    margin: 0 auto;
+    min-height: 500px;
+    height: 500px;
+}
+
+#content_left {
+    height: 100%;
+    background-color: red;
+}
+
+#content_right {
+    height: 100%;
+    background-color: pink;
+}
+
+.footer,
+.push {
+    background-color: black;
+    height: 50px;
+}
